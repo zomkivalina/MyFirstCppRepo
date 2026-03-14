@@ -2,5 +2,8 @@
 
 int main() {
 std::cout<<"Hello,Git"<<std::endl;
+int a;
+std::cin >> a;
+std::cout << a << std::endl;
 return 0;
 }
