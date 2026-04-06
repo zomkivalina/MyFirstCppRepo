@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     "/Users/alinazomkiv/Desktop/ООП/MyFirstCppRepo/main"
+binary-path:     '/Users/alinazomkiv/Desktop/Cpp_Labs/MyFirstCppRepo/main'
 relocations:     []
 ...
